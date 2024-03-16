@@ -1,1 +1,0 @@
-/Users/petarmilenkovic/Projects/psychic-computing-machine/curses_more/more_curses.c
